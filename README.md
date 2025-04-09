@@ -4,5 +4,4 @@
 
 ## Abstract
 
-*To Be Updated*
-
+Atmospheric dust from East Asia supplies iron (Fe) to the North Pacific Ocean, a high-nutrient, lowchlorophyll region where productivity is Fe-limited. This study uses the cGENIE Earth system model to evaluate the biogeochemical impact of projected declines in Fe deposition fluxes from the Taklamakan and Gobi deserts, simulated under four Shared Socioeconomic Pathways (SSP) scenarios. 
